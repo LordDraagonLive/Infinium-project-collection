@@ -2,22 +2,22 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a friendly experence for everyone, regardless of level of experience.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a friendly experience for everyone, regardless of level of experience.
 
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment include:
 
-* Using welcoming language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+- Using welcoming language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community
+- Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
 
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+- Publishing others' private information, such as a physical or electronic address, without explicit permission
+- Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Our Responsibilities
 
