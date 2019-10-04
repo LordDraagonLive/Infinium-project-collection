@@ -1,9 +1,9 @@
-# hacktoberfest2019
-Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a intermediate project for contributors. #hacktoberfest
+# Infinium-project-collection
+Participate in Hacktoberfest by contributing to this project on GitHub! Here are some intermediate projects for contributors. #hacktoberfest
  
 
 # - To submit a pull request to blockchain_Projects
-1. Open the blockchain issue.
+1. Comment under the blockchain issue and link your project to this issue (If you are creating a new blockchain based project then create a new issue).
 2. Create a project using hyperledger fabric/ethereum based smart contract
 3. Make a pull request to 'Public Branch'.
 4. Add your GIT Name in CONTRIBUTORS.md
