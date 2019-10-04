@@ -1,5 +1,5 @@
-# hacktoberfest2019
-Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a intermediate project for contributors. #hacktoberfest
+# Infinium-project-collection
+Participate in Hacktoberfest by contributing to this project on GitHub! Here are some intermediate projects for contributors. #hacktoberfest
  
 
 # - To submit a pull request to blockchain_Projects
