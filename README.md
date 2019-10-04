@@ -2,6 +2,10 @@
 Participate in Hacktoberfest by contributing to this project on GitHub! Here are some intermediate projects for contributors. #hacktoberfest
  
 
+# Instructions
+1. Please check whether you are working and commiting in the correct folder.
+2. Please check if others have already started the projects. If so, please start a new project or improve the already added project.
+
 # - To submit a pull request to blockchain_Projects
 1. Comment under the blockchain issue and link your project to this issue (If you are creating a new blockchain based project then create a new issue).
 2. Create a project using hyperledger fabric/ethereum based smart contract
