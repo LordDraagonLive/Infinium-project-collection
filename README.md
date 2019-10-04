@@ -3,7 +3,7 @@ Participate in Hacktoberfest by contributing to this project on GitHub! Here are
  
 
 # - To submit a pull request to blockchain_Projects
-1. Open the blockchain issue.
+1. Comment under the blockchain issue and link your project to this issue.
 2. Create a project using hyperledger fabric/ethereum based smart contract
 3. Make a pull request to 'Public Branch'.
 4. Add your GIT Name in CONTRIBUTORS.md
