@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+1KVNAW+oF3pJSG+cjkxPl128OCjDqqfLDFziWoKc5ez3IArkf+HPJ/kBT4EcfRKRZk5NRVWGxcgIcNaoi8rQ==",
+  "success": true,
+  "projectFilePath": "D:\\Infinium Projects\\Infinium-project-collection\\Blockchain projects\\crypto-trading-platform\\cryptoscape-api\\cryptoscape-api\\cryptoscape-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buddh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\buddh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\buddh\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\buddh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\buddh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\buddh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
